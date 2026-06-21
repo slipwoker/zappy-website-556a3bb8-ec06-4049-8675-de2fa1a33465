@@ -1,0 +1,81 @@
+# נגריה בקליק 24/7 — Generative Engine Optimization Map
+
+> A professional carpentry business specializing in custom woodworking solutions for offices and businesses. The brand focuses on high-quality craftsmanship tailored to commercial environments, offering bespoke furniture and built-in solutions designed to enhance office aesthetics and functionality. The tone is professional, reliable, and craft-oriented, targeting business owners and office managers seeking premium carpentry work.
+
+---
+
+## Pages
+
+### בית
+https://24-7-556a3bb8.zappy5.app
+מחפשים נגריה למשרד שתשדרג את חלל העבודה? אצלנו תקבלו פתרונות נגרות ייחודיים ומותאמים אישית לעסק שלכם, מארונות ועד ריהוט מלא. יוצרים אווירה מקצועית ומרשימה עוד היום!
+
+### שירותים
+https://24-7-556a3bb8.zappy5.app/services
+מבטיחים לכם שירותי נגרות למשרד שמביאים תוצאות מדויקות: תכנון, ייצור והתקנה של ריהוט מותאם אישית. כל פרט מתוכנן לשדר יוקרה ופונקציונליות. גלו איך נהפוך את החזון שלכם למציאות!
+
+### אודות
+https://24-7-556a3bb8.zappy5.app/about
+נגריה בקליק 24/7 היא התשובה לעסקים שדורשים נגרות למשרד ברמה אחרת. עם ניסיון עשיר ותשוקה אמיתית לעץ, אנחנו יוצרים ריהוט מותאם אישית שמספר סיפור של איכות. הכירו את הצוות שמאחורי היצירות!
+
+### צור קשר
+https://24-7-556a3bb8.zappy5.app/contact
+מוכנים להתחיל את פרויקט הנגרות למשרד שלכם? צרו קשר עוד היום עם נגריה בקליק 24/7 לקבלת ייעוץ חינם והצעת מחיר לריהוט מותאם אישית. אנחנו כאן כדי להפוך כל חלום עסקי למציאות מעוצבת!
+
+### תודה רבה - פנייתך התקבלה | נגריה בקליק 24/7
+https://24-7-556a3bb8.zappy5.app/thank-you
+תודה שפנית אלינו. פנייתך התקבלה בהצלחה ואנו נחזור אליך בהקדם האפשרי. נגריה בקליק 24/7 - מומחים בנגרות למשרד וריהוט משרדי מותאם אישית.
+
+## Legal & Policy
+
+### Privacy Policy
+https://24-7-556a3bb8.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://24-7-556a3bb8.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://24-7-556a3bb8.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://24-7-556a3bb8.zappy5.app/contact
+- Endpoint: https://24-7-556a3bb8.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `phone` (tel)
+  - `email` (email)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About נגריה בקליק 24/7
+A professional carpentry business specializing in custom woodworking solutions for offices and businesses. The brand focuses on high-quality craftsmanship tailored to commercial environments, offering bespoke furniture and built-in solutions designed to enhance office aesthetics and functionality. The tone is professional, reliable, and craft-oriented, targeting business owners and office managers seeking premium carpentry work.
+
+## Target Audience
+- עסקים ומשרדים המחפשים פתרונות נגרות מותאמים אישית
+- עסקים המחפשים נגרות מותאמת אישית
+
+## Industry
+Carpentry & Woodworking
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://24-7-556a3bb8.zappy5.app/sitemap.xml
+- Robots: https://24-7-556a3bb8.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://24-7-556a3bb8.zappy5.app/llms-full.txt
