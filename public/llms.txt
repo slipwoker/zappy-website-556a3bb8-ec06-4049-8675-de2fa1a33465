@@ -7,37 +7,37 @@
 ## Pages
 
 ### בית
-https://24-7-556a3bb8.zappy5.app
+https://example.com
 מחפשים נגריה למשרד שתשדרג את חלל העבודה? אצלנו תקבלו פתרונות נגרות ייחודיים ומותאמים אישית לעסק שלכם, מארונות ועד ריהוט מלא. יוצרים אווירה מקצועית ומרשימה עוד היום!
 
 ### שירותים
-https://24-7-556a3bb8.zappy5.app/services
+https://example.com/services
 מבטיחים לכם שירותי נגרות למשרד שמביאים תוצאות מדויקות: תכנון, ייצור והתקנה של ריהוט מותאם אישית. כל פרט מתוכנן לשדר יוקרה ופונקציונליות. גלו איך נהפוך את החזון שלכם למציאות!
 
 ### אודות
-https://24-7-556a3bb8.zappy5.app/about
+https://example.com/about
 נגריה בקליק 24/7 היא התשובה לעסקים שדורשים נגרות למשרד ברמה אחרת. עם ניסיון עשיר ותשוקה אמיתית לעץ, אנחנו יוצרים ריהוט מותאם אישית שמספר סיפור של איכות. הכירו את הצוות שמאחורי היצירות!
 
 ### צור קשר
-https://24-7-556a3bb8.zappy5.app/contact
+https://example.com/contact
 מוכנים להתחיל את פרויקט הנגרות למשרד שלכם? צרו קשר עוד היום עם נגריה בקליק 24/7 לקבלת ייעוץ חינם והצעת מחיר לריהוט מותאם אישית. אנחנו כאן כדי להפוך כל חלום עסקי למציאות מעוצבת!
 
 ### תודה רבה - פנייתך התקבלה | נגריה בקליק 24/7
-https://24-7-556a3bb8.zappy5.app/thank-you
+https://example.com/thank-you
 תודה שפנית אלינו. פנייתך התקבלה בהצלחה ואנו נחזור אליך בהקדם האפשרי. נגריה בקליק 24/7 - מומחים בנגרות למשרד וריהוט משרדי מותאם אישית.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://24-7-556a3bb8.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://24-7-556a3bb8.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://24-7-556a3bb8.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -47,8 +47,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://24-7-556a3bb8.zappy5.app/contact
-- Endpoint: https://24-7-556a3bb8.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -76,6 +76,6 @@ Carpentry & Woodworking
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://24-7-556a3bb8.zappy5.app/sitemap.xml
-- Robots: https://24-7-556a3bb8.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://24-7-556a3bb8.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
